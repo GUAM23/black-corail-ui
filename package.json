@@ -1,7 +1,7 @@
 {
   "name": "black-corail-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dark ui-theme with black background for Atom Editor (variant of Atom Black UI).",
   "keywords": [
     "ui",
