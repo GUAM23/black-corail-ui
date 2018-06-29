@@ -59,7 +59,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GUAM23/black-corail-ui"
+    "url": "git+https://github.com/GUAM23/black-corail-ui.git"
   },
   "theme": "ui",
   "version": "1.0.0"
